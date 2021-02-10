@@ -1,6 +1,8 @@
 # num_plus_plus_flutter
 
-A new Flutter application.
+Aplikasi Calculator Complex
+
+![screenshot](numplus.jpg)
 
 ## Getting Started
 
